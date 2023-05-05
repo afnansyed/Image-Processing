@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/xiapi/CLionProjects/project2/Pixel.h
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+
+C:/Users/xiapi/CLionProjects/project2/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+ostream
+-
+Pixel.h
+C:/Users/xiapi/CLionProjects/project2/Pixel.h
+
