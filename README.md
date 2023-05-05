@@ -1,6 +1,17 @@
 # Image-Processing
 Image processing project for COP3503
 
+        Documentation and description below provided by course professor Dr. Fox at University of Florida
+### Overview
+
+Lots of applications need to process images in some way. Load them, store them, write them back out to
+files, scale them, rotate them, adjust the color in part (or all) of the image, etc. 
+
+- Program does the following:
+    - Read in a number .TGA files in a binary format
+    - Process the image data store within those files in a variety of ways
+    - Write out new .TGA files in the same binary format
+    
 ![ImageProcessing-03](https://user-images.githubusercontent.com/44105687/236579089-23446787-4f79-4343-91b8-e6301a11405c.png)
 ![ImageProcessing-04](https://user-images.githubusercontent.com/44105687/236579092-ab59fe61-a9eb-4e07-88f6-210d516c4aca.png)
 ![ImageProcessing-05](https://user-images.githubusercontent.com/44105687/236579096-63447835-d0a1-4767-b5a7-e757319352ad.png)
